@@ -23,7 +23,7 @@ public class HomePage extends JFrame
         
 
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        setSize(800,400);
+        setSize(950,450);
 
 
         setLayout(null);
